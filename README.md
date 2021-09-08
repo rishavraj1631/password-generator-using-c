@@ -7,11 +7,11 @@ in this repository we have the password generator and the checker in c
 
 
 menu function is used to give the option to choose 
-1)generate password
-2)check password
-3)check old password
-4)common password
-5)exit
+1)generate password,
+2)check password,
+3)check old password,
+4)common password,
+5)exit.
 
 
 
